@@ -19,7 +19,7 @@ export default {
     computed: {
         /* Build URL for image */
         imageUrl: function(){
-          return   "http://codeflare.tech/images/movie_" + this.transaction.movie_id + ".jpg";
+          return   "http://unknownseller.net/images/movie_" + this.transaction.movie_id + ".jpg";
         },
         /* MAke a pretty date for showing last_update */
         rented: function(){
